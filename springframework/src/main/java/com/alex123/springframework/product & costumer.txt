@@ -1,0 +1,36 @@
+{
+  "customer":{
+    "name":"",
+    "email":"",
+    "gender":"",
+    "productList":[
+      {
+
+        "productName":"",
+        "price":,
+        "quantity":
+      },
+        {
+
+        "productName":"",
+        "price":,
+        "quantity":
+      },
+       {
+
+        "productName":"",
+        "price":,
+        "quantity":
+      },
+       {
+
+        "productName":"",
+        "price":,
+        "quantity":
+      }
+      ]
+  }
+}
+
+
+
