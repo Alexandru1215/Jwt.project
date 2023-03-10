@@ -35,6 +35,9 @@ When you finish, you have a secure REST API application that validates incoming 
 	for Json WebToken
 		<io.jsonwebtoken>
 	- jjwt-impl  // - jjwt-api // jjwt-jackson
+	            -<for qr code>
+	-zxing-spring-boot-starter
+		
 		Don't forget to connect with DB in resources 
 
 #	server.port=8080
