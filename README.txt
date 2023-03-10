@@ -53,14 +53,17 @@ When you finish, you have a secure REST API application that validates incoming 
 	Test the endpoints  in Postman 
 
 # Admin and User will authenticate and will receive the token
-# Admin is authorize to add users or other admin
+# Admin is authorize to add users or a new Admin.
+# Admin is authorize to generate qrCode with Users short info.
+
+
 # Password will be encoded in DB 
 # Users can access the endpoints where have authorize only after they use token 
 # Token is for 25 mins, after that is ncessary a new authentication.
 
 #Customer and Products tables were made for simulate a real action 
 		
-# 
+# Still working on project.
 	
     Contributing
     License
