@@ -1,6 +1,5 @@
-
-
-	
+// I added QR code , generated just by the admin with details for user- 
+// we have infos like user details - name and pin- pin is the order unique number from list.
 	
 
 	
